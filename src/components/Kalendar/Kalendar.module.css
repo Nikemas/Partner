@@ -1,0 +1,28 @@
+.wrapper{
+    width: 100%;
+    height: 935px;
+    background: url(../../images/kalendar.png);
+}
+
+.text{
+    padding: 106px 0 0 128px;
+}
+
+.title{
+    margin: 0 0 21px 0;
+    font-weight: 700;
+    font-size: 69.4133px;
+    line-height: 58px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.subtitle{
+    font-weight: 700;
+        font-size: 32px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}

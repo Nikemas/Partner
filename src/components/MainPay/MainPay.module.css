@@ -1,0 +1,146 @@
+body{
+    width: 100%;
+    
+}
+
+.pay__container{
+    height: 925px;
+    width: 100%;
+}
+
+.pay__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 146px 0 31px 0;
+    font-weight: 700;
+    font-size: 42px;
+    color: #757575;
+}
+
+ul li{
+    display: flex;
+    list-style: none;
+}
+
+.pay__cards{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 22.787px;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    color: #9F9F9F
+}
+
+ul span{
+    margin: 0 35px 0 0;
+}
+
+.pay__images{
+    display: flex;
+   
+}
+
+.pay__images img{
+     mix-blend-mode: luminosity;
+    opacity: 0.54;
+    margin: 0 29px 0 0;
+}
+
+.money{
+    width: 117.44px;
+    height: 25.42px;
+}
+
+.qiwi{
+    width: 111.31px;
+    height: 60.47px;
+}
+
+.webMoney{
+    width: 163.89px;
+    height: 65.73px;
+}
+
+.tether{
+    width: 127px;
+    height: 64px;
+}
+
+.bitkoin{
+    width: 131.46px;
+    height: 65.73px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payinfo{
+    margin: 172px 0 0 128px;
+}
+
+.info__title{
+    margin: 0 0 48px 0;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 35px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2D036A;
+}
+
+
+.info__subtitle{
+    margin: 0 0 18px 0;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: #2D036A;
+}
+
+.info__subtitle img{
+    margin: 0 21px 0 0;
+}
+
+.info__text{
+    margin: 0 0 48px 0;
+    width: 598px;
+    height: 66px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.03em;
+    color: #5D5A63;
+}
+
+.button__pay span{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+   
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+button{
+    border: none;
+    width: 256px;
+    height: 60px;
+    background: #FF3471;
+    border-radius: 40px;
+}
+
+.phone{
+    margin: 0 0 0 302px;
+}
+
+.phone img{
+    width: 429px;
+    height: 478px;
+}
